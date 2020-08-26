@@ -5,16 +5,16 @@ window.addEventListener("load", function(){
 window.cookieconsent.initialise({
   "palette": {
     "popup": {
-      "background": "#2574a9"
+      "background": "#ff1500"
     },
     "button": {
       "background": "transparent",
-      "text": "#ffffff",
-      "border": "#ffffff"
+      "text": "#000000",
+      "border": "#000000"
     }
   },
   "content": {
-    "href": "https://url-blog.blogspot.com/p/privacy-policy.html"
+    "href": "https://zpers.blogspot.com/p/privacy-policy.html"
   }
 })});
 </script>
